@@ -1,1 +1,1 @@
-Book Cabin (Landing Page). Using HTML, CSS, JavaScript.
+Book Cabin (Responsive Landing Page). Using HTML, CSS, JavaScript.
